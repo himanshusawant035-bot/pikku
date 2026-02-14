@@ -169,7 +169,7 @@ const App = () => {
   <div className="glass rounded-3xl p-8 text-center flex flex-col items-center gap-10 fade-in max-w-5xl mx-auto w-full">
     <div>
       <h2 className="text-5xl font-bold gradient-text font-cursive mb-3">
-        Our Memories
+        Memories And Love
       </h2>
     </div>
     
